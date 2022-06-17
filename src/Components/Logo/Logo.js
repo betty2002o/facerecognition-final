@@ -19,7 +19,7 @@ function Logo() {
           className="br4 pa2 shadow-5 center"
         >
           <a
-            href="https://github.com/betty2002o/face-recognition-final/tree/main"
+            href="https://github.com/betty2002o/facerecognition-final"
             target="_blank"
             rel="noreferrer"
           >
